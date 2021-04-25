@@ -1,0 +1,2 @@
+class PagSeguroSettingsException(Exception):
+    pass
